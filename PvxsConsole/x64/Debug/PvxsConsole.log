@@ -1,0 +1,9 @@
+﻿  PvxsConsole.cpp
+C:\Users\uuk19286\source\play\PvxsConsole\headers\data.h(630,45): warning C4244: 'argument': conversion from 'pvxs::impl::StorageMap<int,void>::store_t' to 'const T', possible loss of data
+C:\Users\uuk19286\source\play\PvxsConsole\headers\data.h(630,45): warning C4244:         with
+C:\Users\uuk19286\source\play\PvxsConsole\headers\data.h(630,45): warning C4244:         [
+C:\Users\uuk19286\source\play\PvxsConsole\headers\data.h(630,45): warning C4244:             T=int32_t
+C:\Users\uuk19286\source\play\PvxsConsole\headers\data.h(630,45): warning C4244:         ]
+  PvxsConsole.vcxproj -> C:\Users\uuk19286\source\play\PvxsConsole\x64\Debug\PvxsConsole.exe
+  Copy DLLs to Target Directory
+  0 File(s) copied
